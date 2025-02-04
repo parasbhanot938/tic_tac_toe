@@ -1,29 +1,3 @@
-# zero_kanti
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![Game View](assets/screenshots/game_view.png)
-![Google Ad](assets/screenshots/google_ad.png)
-![Win View](assets/screenshots/win_view.png)
-
-
-Sure! Adding emojis and sections for your screenshots will make the README more visually engaging. Here’s the updated version with emojis and placeholders for your screenshots.
-
----
-
 # Tic Tac Toe Flutter App 🎮
 
 A simple **Tic Tac Toe** game built with **Flutter** and **GetX** for state management. This app allows two players to play on the same device and comes with an array of features, including a reset button, winner pop-up, confetti animation, and Google Ads integration.
