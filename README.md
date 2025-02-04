@@ -54,7 +54,7 @@ Before you begin, ensure you have the following installed:
 
 2. Navigate into the project directory:
    ```bash
-   cd tic-tac-toe-flutter
+   cd tic_tac_toe
    ```
 
 3. Install dependencies:
